@@ -11,16 +11,7 @@ I’m a mobile-first developer with a sharp eye for clean design, performance, a
 
 ---
 
-### My Projects
-
-| Project | Description |
-|--------|-------------|
-| [Connect Cards](https://github.com/raniajarral/connect-cards) | NFC-enabled digital business profile |
-| [Connect Cards Editor](https://github.com/raniajarral/card-editor) | Profile editor with theme customization |
-| [PRAX ADMIN](https://github.com/raniajarral/card-editor) | Mobile admin tool for client + affiliate management |
-
-*Check out all my projects in [portfolio-projects](https://github.com/raniajarral/portfolio-projects)*
-
+### Check out all my projects in [portfolio-projects](https://github.com/raniajarral/portfolio-projects)
 ---
 
 ### Contact

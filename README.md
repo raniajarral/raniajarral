@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Rania Jarral 👋</h1>
+<h1 align="center">Hi, I'm Rania!:)</h1>
 <p align="center">
-  Mobile Developer • Product Strategist • Builder of useful things
+   Developer 
 </p>
 
 ---
@@ -9,20 +9,15 @@
 
 I’m a mobile-first developer with a sharp eye for clean design, performance, and practicality. I specialize in building tools for startups, solo clients, and creative projects that bridge technology with real-world needs.
 
--  Flutter, Firebase, Kotlin, Python, React
--  Focused on utility, clarity, and elegant user experiences
--  I value strategy, minimalism, and problem-solving
--  Currently refining internal tools, NFC apps, and resume generators
-
 ---
 
-### 🚀 Featured Projects
+### My Projects
 
 | Project | Description |
 |--------|-------------|
-| 🔗 [Connect Cards](https://github.com/raniajarral/portfolio-projects/tree/main/connect-cards) | NFC-enabled digital business profile |
-| 🎨 [Connect Cards Editor](https://github.com/raniajarral/portfolio-projects/tree/main/editor-app) | Profile editor with theme customization |
-| 📦 [PRAX ADMIN](https://github.com/raniajarral/portfolio-projects/tree/main/prax-admin) | Mobile admin tool for client + affiliate management |
+| [Connect Cards](https://github.com/raniajarral/portfolio-projects/tree/main/connect-cards) | NFC-enabled digital business profile |
+| [Connect Cards Editor](https://github.com/raniajarral/portfolio-projects/tree/main/editor-app) | Profile editor with theme customization |
+| [PRAX ADMIN](https://github.com/raniajarral/portfolio-projects/tree/main/prax-admin) | Mobile admin tool for client + affiliate management |
 
 *Check out all my projects in [portfolio-projects](https://github.com/raniajarral/portfolio-projects)*
 

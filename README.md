@@ -16,7 +16,7 @@ I’m an android dev with a focus on clean design and practical builds for start
 
 ### Contact
 
-📧 Email: raniajarral9.email@gmail.com  
+📧 Email: raniajarralyt@email@gmail.com  
 🔗 [GitHub](https://github.com/raniajarral)
 
 ---

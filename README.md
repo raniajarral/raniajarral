@@ -5,7 +5,7 @@
 
 ---
 
-### About Me
+<h1 align="center"> About Me</h1>
 
 I’m an android dev with a focus on clean design and practical builds for startups and solo founders. When I’m not working on Android apps, you’ll usually find me tinkering with web and front-end projects just for fun!
 

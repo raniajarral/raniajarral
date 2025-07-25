@@ -1,42 +1,27 @@
-<h1 align="center">Hi, I'm Rania!:)</h1>
-<p align="center">
-   Developer 
-</p>
+# Rania Jarral
+
+Hi, I’m Rania! — I’m an android dev with a focus on clean design and practical builds for startups and solo founders. When I’m not working on Android apps, you’ll usually find me tinkering with web and front-end projects just for fun!
+
+I specialize in Android and Flutter but often branch into the frontend when needed. Whether it's a fintech dashboard, an NFC utility, or a sleek portfolio, I’m all about getting it shipped.
+
+> Explore some of my work in the [Portfolio Projects Repo](https://github.com/raniajarral/portfolio-projects)
 
 ---
 
-<h3 align="center"> About Me</h3>
+## Tech Stack
 
-I’m an android dev with a focus on clean design and practical builds for startups and solo founders. When I’m not working on Android apps, you’ll usually find me tinkering with web and front-end projects just for fun!
+**Frontend**  
+HTML5 / CSS3 · Tailwind CSS · JavaScript (ES6+)
 
----
+**Mobile**  
+Flutter · Dart · Kotlin · Java · Android UI/UX
 
-### Check out all my projects in my [projects repo](https://github.com/raniajarral/portfolio-projects)!
----
-
-### Contact
-
-📧 Email: raniajarralyt@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/rania-jarral/
+**Backend & Tools**  
+Firebase · Firestore · Git & GitHub · VS Code
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raniajarral&show_icons=true&theme=radical" />
-</p>
+## Let’s Connect
 
-
-<!--
-**raniajarral/raniajarral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📩 Email — [raniajarralyt@gmail.com](mailto:raniajarralyt@gmail.com)  
+🔗 LinkedIn — [linkedin.com/in/rania-jarral](https://www.linkedin.com/in/rania-jarral/)

@@ -1,6 +1,6 @@
 # Rania Jarral
 
-Hi, I’m Rania! — I’m an android dev with a focus on clean design and practical builds for startups and solo founders. When I’m not working on Android apps, you’ll usually find me tinkering with web and front-end projects just for fun!
+Hi, I’m Rania! I’m an Android dev with a focus on clean design and practical builds for startups and solo founders. When I’m not working on Android apps, you’ll usually find me tinkering with web and front-end projects just for fun!
 
 I specialize in Android and Flutter but often branch into the frontend when needed. Whether it's a fintech dashboard, an NFC utility, or a sleek portfolio, I’m all about getting it shipped.
 

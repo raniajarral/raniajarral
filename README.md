@@ -23,5 +23,4 @@ Firebase · Firestore · Git & GitHub · VS Code
 
 ## Let’s Connect
 
-📩 Email — [raniajarralyt@gmail.com](mailto:raniajarralyt@gmail.com)  
-🔗 LinkedIn — [linkedin.com/in/rania-jarral](https://www.linkedin.com/in/rania-jarral/)
+Email — [rania.jarral@connectprax.com](mailto:rania.jarral@connectprax.com)  

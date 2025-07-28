@@ -10,8 +10,8 @@ I specialize in Android and Flutter but often branch into the frontend when need
 
 ## Tech Stack
 
-**Frontend**  
-HTML5 / CSS3 · Tailwind CSS · JavaScript (ES6+)
+**Web**  
+HTML5 / CSS3 · Tailwind CSS · JavaScript (ES6+) · React
 
 **Mobile**  
 Flutter · Dart · Kotlin · Java · Android UI/UX
